@@ -1,0 +1,5 @@
+#!/bin/sh
+
+git clean -xfd
+bin/krell --compile-opts build.edn --optimizations advanced --compile
+npx react-native run-android --variant release
