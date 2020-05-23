@@ -2,5 +2,5 @@
 
 {
   echo [`date +%Y%m%d-%H%M%S`] clojure -m krell.main "$@"
-  clojure -m krell.main "$@"
+  clojure -m krell.main "$@" 2>&1
 } | tee -a krell.log
