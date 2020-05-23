@@ -62,3 +62,4 @@ buck-out/
 .cpcache
 /index.js
 /target
+krell.log
