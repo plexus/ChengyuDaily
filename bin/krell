@@ -1,5 +1,8 @@
 #!/bin/sh
 
+# because I always forget after a git clean
+[[ -d node_modules ]] || yarn install
+
 {
   echo [`date +%Y%m%d-%H%M%S`] clojure -m krell.main "$@"
   clojure -m krell.main "$@" 2>&1

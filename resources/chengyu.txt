@@ -11,7 +11,7 @@
 11. 力不从心 (Lì bù cóng xīn): “the qualities aren’t at the level of the aspirations”
 12. 亦步亦趋 (yì bù yì qū): “to blindly imitate someone”
 13. 滔滔不绝 (tāo tāo bù jué): “without interruption”
-14. 桃李满天下 (táolǐ mǎn tiān xià): “to have pupils everywhere”
+# 14. 桃李满天下 (táolǐ mǎn tiān xià): “to have pupils everywhere”
 15. 省吃俭用 (shěng chī jiǎn yòng): “to live frugally”
 16. 婀娜多姿 (ē nuó duō zī): “to be graceful”
 17. 应运而生 (yìngyùn’érshēng): “to emerge thanks to a favorable situation”
@@ -19,14 +19,15 @@
 19. 寓意深远 (yùyì shēnyuǎn): “morale is very low”
 20. 一切就绪 (yīqièjiùxù): “everything is in order”
 21. 囫囵吞枣 (hú lún tūn zǎo): “to swallow information without assimilating it”
-22. 塞翁失马 (焉知非福) (sài wēng shī mǎ (yān zhī fēi fú)): “not all bad comes to cause harm”
+# 22. 塞翁失马 (焉知非福) (sài wēng shī mǎ (yān zhī fēi fú)): “not all bad comes to cause harm”
+22. 塞翁失马 (sài wēng shī mǎ): “not all bad comes to cause harm”
 23. 狼吞虎咽 (láng tūn hǔ yàn): “to brush away food like a wolf”
 24. 避而不见 (bì’ér bù jiàn): “to avoid meeting someone”
 25. 成千上万 (chéng qiān shàng wàn): “thousands”
 26. 依依不舍 (yī yī bù shě): “to be reluctant to leave something”
 27. 如期而至 (rú qī ér zhì): “to arrive in time”
 28. 自作聪明 (zì zuò cōngmíng): “to be presumptuous”
-29. 废寝忘食f (èi qǐn wàng shí): “forgetting to eat and sleep so as to do something”
+29. 废寝忘食 (fèi qǐn wàng shí): “forgetting to eat and sleep so as to do something”
 30. 一门心思 (yī mén xīn si): “to be solely concentrated on doing something”
 31. 深情厚谊 (shēn qíng hòu yì): “long and intimate friendship”
 32. 死里逃生 (sǐ lǐ táo shēng): “to find a way out of certain death”
@@ -121,14 +122,14 @@
 121. 随遇而安 (suí yù ér’ān): “to feel adequate wherever you are”
 122. 厚德载物 (hòu dé zài wù): “to be of strong moral character”
 123. 大智若愚 (dà zhì ruò yú): “the wise one appears stupid”
-124. 知行合一zhī xíng hé yī): “the union of practice and knowledge”
+124. 知行合一 (zhī xíng hé yī): “the union of practice and knowledge”
 125. 相濡以沫 (xiāng rú yǐ mò): “to help each other out despite both being in delicate condition”
 126. 阳光明媚 (yáng guāng míng mèi): “the sun is particularly bright”
 127. 忐忑不安 (tǎn tè bù’ān): “disquieted; preoccupied; uncomfortable”
 128. 说三道四 (shuō sān dào sì): “to gossip”
 129. 不顾一切 (bù gù yī qiè): “indifferent to everything”
-130. 一日为师，终身为父 (yī rì wèi shī, zhōngshēn wèi fù): “teacher for a day, father for a lifetime”
-131. 不管三七二十一 (bù guǎn sān qī èr shí yī): “not caring about the consequences”
+# 130. 一日为师，终身为父 (yī rì wèi shī, zhōngshēn wèi fù): “teacher for a day, father for a lifetime”
+# 131. 不管三七二十一 (bù guǎn sān qī èr shí yī): “not caring about the consequences”
 132. 开门见山 (kāi mén jiàn shān): “to get right to the chase”
 133. 一蹴而就 (yī cù’ér jiù): “to be successful on the first try”
 134. 惹是生非 (rě shì shēng fēi): “to start a dispute; begin a conflict”
