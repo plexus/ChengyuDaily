@@ -1,5 +1,16 @@
-{:deps {reagent                       {:mvn/version "0.10.0" :exclusions [cljsjs/react cljsjs/react-dom]}
+{:paths ["src" "resources"]
+ :deps {reagent                       {:mvn/version "0.10.0" :exclusions [cljsjs/react cljsjs/react-dom]}
         io.vouch/krell                {:git/url "https://github.com/vouch-opensource/krell.git"
                                        :sha     "2ce32a6b02acf8442a98d09f5a0163ded3960288"}
         io.vouch/reagent-react-native {:git/url "https://github.com/vouch-opensource/reagent-react-native.git"
-                                       :sha     "54bf52788ab051920ed7641f386177374419e847"}}}
+                                       :sha     "54bf52788ab051920ed7641f386177374419e847"}
+
+
+        org.slf4j/jul-to-slf4j {:mvn/version "1.7.25"}
+        org.slf4j/jcl-over-slf4j {:mvn/version "1.7.25"}
+        org.slf4j/log4j-over-slf4j
+        {:exclusions [org.slf4j/slf4j-nop], :mvn/version "1.7.25"}
+        ch.qos.logback/logback-classic
+        {:exclusions [org.slf4j/slf4j-api org.slf4j/slf4j-nop]
+         :mvn/version "1.2.3"}
+        }}
